@@ -106,7 +106,7 @@
 
 	{{-- Invitation Start --}}
 	<section class="bg-background">
-		<div class="container w-3/4 mx-auto mt-8 md:mt-10 lg:mt-12 py-4 sm:py-6 md:py-8 lg:py-12">
+		<div class="container w-3/4 mx-auto my-6 md:my-8 lg:my-10 py-4 sm:py-6 md:py-8 lg:py-12">
 			<h2 class="text-3xl md:text-4xl lg:text-5xl mb-3 md:mb-4 font-simonetta font-bold text-center">
 				Join the Groove Family Today
 			</h2>

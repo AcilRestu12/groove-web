@@ -20,6 +20,7 @@ module.exports = {
 				montserrat: ['Montserrat', 'sans-serif'],
 				pacifico: ['Pacifico', 'cursive'],
 				simonetta: ['Simonetta', 'cursive'],
+				marck: ['Marck Script', 'cursive'],
 			}
 		}
 	},
