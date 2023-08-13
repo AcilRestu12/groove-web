@@ -6,8 +6,8 @@
         </div>
         <div class="mx-auto w-full max-w-screen-xl p-4 py-6 lg:py-8">
             <div class="flex flex-col md:flex-row md:justify-between">
-                <div class="w-fit mb-6 sm:mb-10 md:mb-0 self-center md:self-auto md:ml-4 lg:ml-6">
-                    <a href="https://flowbite.com/" class="flex items-center mb-3 md:mb-5 p-3">
+                <div class="w-fit mb-7 sm:mb-10 md:mb-0 self-center md:self-auto md:ml-4 lg:ml-6">
+                    <a href="/" class="flex items-center mb-3 md:mb-5 p-3">
                         <span class="self-center text-5xl lg:text-6xl font-pacifico whitespace-nowrap text-primary">Groove</span>
                     </a>
                     <div class="flex flex-row justify-between md:justify-start md:space-x-3 md:pl-4 mx-2 md:mx-0">

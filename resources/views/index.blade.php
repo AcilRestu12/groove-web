@@ -11,7 +11,7 @@
 					<h1 class="mb-2 lg:mb-4 text-4xl font-extrabold font-simonetta tracking-tight text-center md:text-left self-center text-white md:text-5xl lg:text-6xl">
 						Welcome to Groove: Discover the Art of Learning Russian			
 					</h1>
-					<a href="#" class="inline-flex justify-center items-center md:w-fit py-3 px-5 my-3 mx-4 sm:mx-10 md:mx-0 text-base font-montserrat font-semibold text-center text-white rounded-lg bg-primary duration-200  hover:opacity-90 focus:ring-4 focus:ring-blue-200">
+					<a href="#" class="inline-flex justify-center items-center md:w-fit py-3 px-5 my-3 mx-4 sm:mx-10 md:mx-0 text-base font-montserrat font-semibold text-center text-white rounded-lg bg-primary duration-300  hover:opacity-90 focus:ring-4 focus:ring-blue-200">
 						Get started
 						<svg class="w-3.5 h-3.5 ml-2" aria-hidden="true" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 10">
 							<path stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M1 5h12m0 0L9 1m4 4L9 9"/>
@@ -71,7 +71,7 @@
 						<p class="text-base lg:text-lg font-maitree font-medium text-slate-800 mb-3 md:mb-4 lg:mb-5">
 							Engage with our carefully crafted videos that cover a range of topics, from basic phrases to advanced linguistic nuances.
 						</p>
-						<a href="#" class="block rounded-md font-montserrat font-semibold text-sm md:text-base w-fit py-1.5 px-5 md:px-6 lg:px-8 lg:py-2 text-center duration-200 text-primary hover:text-white hover:bg-primary border-primary border-2 focus:ring-4 focus:outline-none">See More</a>
+						<a href="#" class="block rounded-md font-montserrat font-semibold text-sm md:text-base w-fit py-1.5 px-5 md:px-6 lg:px-8 lg:py-2 text-center duration-300 text-primary hover:text-white hover:bg-primary border-primary border-2 focus:ring-4 focus:outline-none">See More</a>
 					</div>
 				</div>
 				{{-- BLog --}}
@@ -83,7 +83,7 @@
 						<p class="text-base lg:text-lg font-maitree font-medium text-slate-800 mb-3 md:mb-4 lg:mb-5">
 							Access a wealth of supplementary materials, exercises, and quizzes that complement your learning journey.						
 						</p>
-						<a href="#" class="block rounded-md font-montserrat font-semibold text-sm md:text-base w-fit py-1.5 px-5 md:px-6 lg:px-8 lg:py-2 text-center duration-200 text-primary hover:text-white hover:bg-primary border-primary border-2 focus:ring-4 focus:outline-none">See More</a>
+						<a href="#" class="block rounded-md font-montserrat font-semibold text-sm md:text-base w-fit py-1.5 px-5 md:px-6 lg:px-8 lg:py-2 text-center duration-300 text-primary hover:text-white hover:bg-primary border-primary border-2 focus:ring-4 focus:outline-none">See More</a>
 					</div>
 				</div>
 				{{-- Community --}}
@@ -95,7 +95,7 @@
 						<p class="text-base lg:text-lg font-maitree font-medium text-slate-800 mb-3 md:mb-4 lg:mb-5">
 							Join a vibrant community of language enthusiasts, share your progress, and learn from fellow Groove learners.
 						</p>
-						<a href="#" class="block rounded-md font-montserrat font-semibold text-sm md:text-base w-fit py-1.5 px-5 md:px-6 lg:px-8 lg:py-2 text-center duration-200 text-primary hover:text-white hover:bg-primary border-primary border-2 focus:ring-4 focus:outline-none">See More</a>
+						<a href="#" class="block rounded-md font-montserrat font-semibold text-sm md:text-base w-fit py-1.5 px-5 md:px-6 lg:px-8 lg:py-2 text-center duration-300 text-primary hover:text-white hover:bg-primary border-primary border-2 focus:ring-4 focus:outline-none">See More</a>
 					</div>
 				</div>
 				
@@ -116,7 +116,7 @@
 				no matter your background, Groove welcomes you 
 				to a world of comfort, tradition, and lifelong learning.
 			</p>
-			<a href="#" class="block uppercase w-fit py-2.5 md:py-3 px-5 my-3 mx-auto text-sm md:text-base duration-200 font-montserrat font-semibold text-center text-white rounded-md bg-primary hover:opacity-90 focus:ring-4 focus:ring-blue-200">
+			<a href="#" class="block uppercase w-fit py-2.5 md:py-3 px-5 my-3 mx-auto text-sm md:text-base duration-300 font-montserrat font-semibold text-center text-white rounded-md bg-primary hover:opacity-90 focus:ring-4 focus:ring-blue-200">
 				register now
 			</a>
 		</div>
